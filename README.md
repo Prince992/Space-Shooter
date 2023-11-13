@@ -1,2 +1,2 @@
-# Space-Shooter-
+# Space-Shooter
 My first Shooting Game In unity.
